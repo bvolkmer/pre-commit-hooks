@@ -1,0 +1,5 @@
+- id: todo
+  name: todo
+  entry: find_todo.bash
+  language: script
+  description: Check if TODO statements are to be committed
